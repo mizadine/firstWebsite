@@ -7,6 +7,7 @@ body{
     -moz-background-size: 100% 100%;
     background-size: 100% 100%;
     -o-background-size: 100% 100%;
+    background-image: url("https://webgradients.com/public/webgradients_png/070%20Aqua%20Splash.png")
 }
 h1{
     color: #2BA967;
@@ -219,7 +220,4 @@ button{
 button:hover{
     background-color: #fbf3db;
     border: 1px solid #745b2f;
-}
-body{
-    background-image: url("https://webgradients.com/public/webgradients_png/070%20Aqua%20Splash.png")
 }
