@@ -206,3 +206,16 @@ footer a:hoover{
     color: #fff;
     text-decoration: underline;
 }
+button{
+    color: #c64322;
+    background-color: #fff;
+    display: inline-block;
+    margin: 0 0.75em 0 0;
+    padding: 0.2em 0.5em;
+    border: 1px solid #c64322;
+    text-transform: uppercase;
+}
+button:hover{
+    background-color: #fbf3db;
+    border: 1px solid #745b2f;
+}
