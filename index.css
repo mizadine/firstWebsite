@@ -164,7 +164,7 @@ section main {
 }
 section div.panel{
     float: left;
-    position: absolute
+    position: absolute;
     width: 250px;
     margin: 0 0.5em 2.0em 0.5em;
     padding: 1.0em;
