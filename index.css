@@ -144,7 +144,7 @@ nav#utilityMenu ul li.acctNav: :before, nav#utilityMenu ul li input#search: :bef
     content: "| ";
     color: #fcfbe6;
 }
-sections#sidebar{
+section#sidebar{
     width: 238px;
     float: right;
     position: relative;
@@ -176,7 +176,7 @@ section div.panel img.paintType{
     width: 100%;
 }
 footer{
-    background-color: #40362f;
+    background-color: darkblue;
     height: 25px;
     font-size: 1.2em;
     color: #fff;
