@@ -10,7 +10,7 @@ body{
     background-image: url("https://webgradients.com/public/webgradients_png/070%20Aqua%20Splash.png")
 }
 h1{
-    color: #2BA967;
+    color: white;
     font-size: 2.0em;
     margin: 0.5em 0 0.5em 0;
     padding: 0;
@@ -51,7 +51,6 @@ hr{
     margin: 0 auto;
     max-width: 1170px;
     padding: 0 3.0em;
-    background-image: url("cri_000000298711.jpg")
 }
 .left{
     float: left;
