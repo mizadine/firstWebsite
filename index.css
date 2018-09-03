@@ -1,13 +1,13 @@
 body{
     font-size: 67.5%;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: url("https://webgradients.com/public/webgradients_png/070%20Aqua%20Splash.png");
     padding: 0;
     margin: 0;
     -webkit-background-size: 100% 100%;
     -moz-background-size: 100% 100%;
     background-size: 100% 100%;
     -o-background-size: 100% 100%;
-    background-image: url("https://webgradients.com/public/webgradients_png/070%20Aqua%20Splash.png")
 }
 h1{
     color: white;
