@@ -57,6 +57,10 @@ hr{
 .right{
     float: right;
 }
+div.clear{
+    clear: both;
+    font-size: 1%;
+}
 header{
     padding: 2.5em 0 0.5em;
     margin: 0 0 2.0em;
@@ -169,4 +173,36 @@ section div.panel{
 }
 section div.panel img.paintType{
     width: 100%;
+}
+footer{
+    background-color: #40362f;
+    height: 25px;
+    font-size: 1.2em;
+    color: #fff;
+    width: 100%;
+    text-align: center;
+    padding: 1.5em 2.0em;
+}
+footer ul#menuFooter{
+    display: inline-block;
+    list-style: none;
+    margin: 0 0 0 0.6em;
+    padding: 0;
+}
+footer ul li{
+    display: inline-block;
+    padding: 0 0.7em 0 0;
+    margin: 0;
+}
+footer ul li::before{
+    content: "| ";
+    padding-right: 0.7em;
+}
+footer a, footer a:visited{
+    color: #fff;
+    text-decoration: none;
+}
+footer a:hoover{
+    color: #fff;
+    text-decoration: underline;
 }
