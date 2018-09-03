@@ -154,7 +154,7 @@ section#sidebar{
     padding: 1.7em 0.5em 2.0em 1.7em;
     border-left: #2BA967 solid 5px;
 }
-section main {
+section #main {
     background-color: rgba(252, 251, 243, 0.7);
     margin: 0 0 2.0em;
     padding: 1.5em 0 2.0em 1.5em;
