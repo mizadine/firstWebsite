@@ -139,3 +139,34 @@ nav#utilityMenu ul li.acctNav: :before, nav#utilityMenu ul li input#search: :bef
     content: "| ";
     color: #fcfbe6;
 }
+sections#sidebar{
+    width: 238px;
+    float: right;
+    position: relative;
+    display: block;
+    background-color: #fff;
+    margin: 1.5em 0 3.0em 1.5em;
+    padding: 1.7em 0.5em 2.0em 1.7em;
+    border-left: #2BA967 solid 5px;
+}
+section #main{
+    background-color: rgba(252, 251, 243, 0.7);
+    margin: 0 0 2.0em;
+    padding: 1.5em 0 2.0em 1.5em;
+    display: inline-block;
+    border-radius: 2em;
+    box-shadow: 1px 1px 5px #777;
+}
+section div.panel{
+    float: left;
+    position: relative;
+    width: 250px;
+    margin: 0 0.5em 2.0em 0.5em;
+    padding: 1.0em;
+    background-color: #fff;
+    border: #ccc solid 1px;
+    border-radius: 0.6em;
+}
+section div.panel img.paintType{
+    width: 100%;
+}
