@@ -1,7 +1,7 @@
 body{
     font-size: 67.5%;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background: lightgray;
+    background: rgb(238, 229, 222);
     padding: 0;
     margin: 0;
     -webkit-background-size: 100% 100%;
@@ -10,13 +10,13 @@ body{
     -o-background-size: 100% 100%;
 }
 h1{
-    color: chocolate;
+    color: rgb(116, 85, 28);
     font-size: 2.0em;
     margin: 0.5em 0 0.5em 0;
     padding: 0;
 }
 h2{
-    color: chocolate;
+    color: rgb(114, 94, 80);
     font-size: 1.7em;
     padding: 0px;
     margin: 0.5em 0 0.35em 0;
@@ -24,7 +24,7 @@ h2{
 p{
     font-size: 1.2em;
     line-height: 1.4em;
-    color: #555;
+    color: rgb(54, 41, 15);
     padding: 0px;
     margin: 0px 0.5em 0.75em 0px;
 }
@@ -68,7 +68,7 @@ header{
     background-image: url("http://getwallpapers.com/wallpaper/full/9/c/1/686718.jpg");
 }
 header h1{
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: white;
     font-size: 7.5em;
     letter-spacing: -0.025em;
@@ -83,7 +83,7 @@ header h2{
     letter-spacing: 0.05em;
 }
 nav{
-    color: #000;
+    color: rgb(252, 250, 250);
     font-size: 1.7em;
     letter-spacing: 0.04em;
     padding: 1.0em 1.0em 0.5em;
@@ -100,11 +100,11 @@ nav li{
 }
 nav li a, nav li a:visited{
     text-decoration: none;
-    color: white;
+    color: rgb(163, 138, 73);
     padding: 0.3em 0.6em;
 }
 nav li a:hover{
-    color: wheat;
+    color: rgb(219, 211, 195);
     background-color: rgba(252,251,243, 0.75);
 }
 nav#utilityMenu{
@@ -128,10 +128,10 @@ nav#utilityMenu ul li.acctNav a, nav#utilityMenu ul li.acctNav a:visited{
     font-size: 0.8em;
 }
 nav#utilityMenu ul li.acctNav a.active{
-    background-color: #c64322;
+    background-color: #572b20;
 }
 nav#utilityMenu ul li.acctNav a:hover{
-    color: #c64322;
+    color: #fcfaf9;
     background-color: rgba(252,251,243,0.7);
 }
 nav#utilityMenu li a, nav#utilityMenu li a:visited{ padding: 0;}
@@ -152,15 +152,15 @@ section#sidebar{
     background-color: #fff;
     margin: 1.5em 0 3.0em 1.5em;
     padding: 1.7em 0.5em 2.0em 1.7em;
-    border-left: chocolate solid 5px;
+    border-left:  rgb(68, 56, 32) solid 5px;
 }
 section main {
-    background-color: rgba(252, 251, 243, 0.7);
+    background-color: rgba(92, 78, 17, 0.7);
     margin: 0 0 2.0em;
     padding: 1.5em 0 2.0em 1.5em;
     display: inline-block;
     border-radius: 2em;
-    box-shadow: 1px 1px 5px black;
+    box-shadow: 1px 1px 5px rgb(78, 66, 32);
 }
 section div.panel{
     float: left;
@@ -176,7 +176,7 @@ section div.panel img.paintType{
     width: 100%;
 }
 footer{
-    background-color: darkgray;
+    background-color: rgb(92, 69, 26);
     height: 25px;
     font-size: 1.2em;
     color: #fff;
@@ -208,12 +208,12 @@ footer a:hoover{
     text-decoration: underline;
 }
 button{
-    color: #c64322;
+    color: #522c23;
     background-color: #fff;
     display: inline-block;
     margin: 0 0.75em 0 0;
     padding: 0.2em 0.5em;
-    border: 1px solid #c64322;
+    border: 1px solid #3f1f17;
     text-transform: uppercase;
 }
 button:hover{
